@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://laundropro.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: LaundroPro
+subtitle: LaundroPro's blog.
+author: LaundroPro 
 simple_search: http://google.com/search
-description:
+description: laundromat point of sale, web point of sale, cloud point of sale
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: 
 # RSS feeds can list your email address if you like
-email:
+email: admin@laundropro.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -73,7 +73,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-42414382-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
