@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: features | LaundroPro]]></title>
+  <link href="http://laundropro.github.io/blog/categories/features/atom.xml" rel="self"/>
+  <link href="http://laundropro.github.io/"/>
+  <updated>2013-11-15T12:04:25-05:00</updated>
+  <id>http://laundropro.github.io/</id>
+  <author>
+    <name><![CDATA[LaundroPro]]></name>
+    <email><![CDATA[admin@laundropro.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bootstrap3 Upgrade]]></title>
+    <link href="http://laundropro.github.io/blog/2013/11/15/bootstrap3-upgrade/"/>
+    <updated>2013-11-15T11:39:00-05:00</updated>
+    <id>http://laundropro.github.io/blog/2013/11/15/bootstrap3-upgrade</id>
+    <content type="html"><![CDATA[<p>As you might have noticed, we have recently updated our user interface to a more modern and responsive version of <a href="http://getbootstrap.com">bootstrap</a>.  This latest version of bootstrap is a little bit sleeker and more mobile friendly.  Nothing has changed except that our site looks a little bit better on your desktop and also on your phones or tablets.  Contact us if you experience any issues by using the <a href="https://laundropro.com/contact_forms/new">contact us</a> link or drop us an email at <a href="mailto:admin@laundropro.com"><a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#x61;&#100;&#109;&#x69;&#110;&#x40;&#108;&#97;&#x75;&#110;&#x64;&#x72;&#111;&#x70;&#x72;&#111;&#x2e;&#x63;&#x6f;&#x6d;">&#97;&#x64;&#x6d;&#x69;&#110;&#64;&#108;&#97;&#117;&#x6e;&#100;&#114;&#x6f;&#112;&#x72;&#111;&#x2e;&#x63;&#111;&#109;</a></a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

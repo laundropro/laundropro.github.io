@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: general | LaundroPro]]></title>
+  <link href="http://laundropro.github.io/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://laundropro.github.io/"/>
+  <updated>2013-11-15T12:04:25-05:00</updated>
+  <id>http://laundropro.github.io/</id>
+  <author>
+    <name><![CDATA[LaundroPro]]></name>
+    <email><![CDATA[admin@laundropro.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to LaundroPro's Blog]]></title>
+    <link href="http://laundropro.github.io/blog/2013/11/15/welcome-to-laundropros-blog/"/>
+    <updated>2013-11-15T11:36:00-05:00</updated>
+    <id>http://laundropro.github.io/blog/2013/11/15/welcome-to-laundropros-blog</id>
+    <content type="html"><![CDATA[<p>Welcome to our new blog.  We hope to share with any interesting ideas, information, and news about our product and all things relevant with you.</p>
+]]></content>
+  </entry>
+  
+</feed>
